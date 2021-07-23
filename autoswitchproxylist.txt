@@ -1,5 +1,5 @@
 [AutoProxy]
-! Last Modified: 2021-07-22 22:25:10.1626992710 +0000 UTC
+! Last Modified: 2021-07-23 22:25:04.1627079104 +0000 UTC
 ! Expires: 24h
 ! HomePage: https://github.com/mixool/rules
 ! GitHub URL: https://raw.githubusercontent.com/mixool/rules/main/autoswitchproxylist.txt
@@ -29089,11 +29089,14 @@
 ||yamigama.com
 ||yammer.com
 ||yandex
+||yandex.aero
 ||yandex.com
 ||yandex.ee
+||yandex.jobs
 ||yandex.kg
 ||yandex.lv
 ||yandex.net
+||yandex.org
 ||yandexcloud.net
 ||yanghengjun.com
 ||yangjianli.com
