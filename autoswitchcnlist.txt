@@ -1,5 +1,5 @@
 [AutoProxy]
-! Last Modified: 2021-07-23 22:25:04.1627079104 +0000 UTC
+! Last Modified: 2021-07-24 22:24:46.1627165486 +0000 UTC
 ! Expires: 24h
 ! HomePage: https://github.com/mixool/rules
 ! GitHub URL: https://raw.githubusercontent.com/mixool/rules/main/autoswitchcnlist.txt
@@ -748,6 +748,7 @@
 ||0kee.com
 ||0quan8.com
 ||0rg.pw
+||0rl.cc
 ||0s8s.com
 ||0x0.biz
 ||0x0.ooo
@@ -2203,7 +2204,6 @@
 ||200wan.com
 ||200y.com
 ||201061.com
-||2011mv.net
 ||201201.com
 ||20130123.com
 ||2013xp.com
@@ -3762,6 +3762,7 @@
 ||4321.com
 ||432520.com
 ||4339.cc
+||43423manhua.com
 ||435000.com
 ||435200.com
 ||435214.com
@@ -3890,7 +3891,6 @@
 ||49you.com
 ||49yu.com
 ||4a40.com
-||4a8a.com
 ||4apx.com
 ||4aqq.com
 ||4async.com
@@ -6760,6 +6760,7 @@
 ||86nb.com
 ||86office.com
 ||86pla.com
+||86pm25.com
 ||86ps.com
 ||86qc.com
 ||86sb.com
@@ -6870,7 +6871,6 @@
 ||88eq.com
 ||88fenxiao.com
 ||88h3.com
-||88haodian.com
 ||88hom.com
 ||88ht.com
 ||88htu.com
@@ -7811,7 +7811,6 @@
 ||9g.com
 ||9gaoding.com
 ||9gty.net
-||9gui.net
 ||9hcom.com
 ||9he.com
 ||9host.org
@@ -11751,6 +11750,7 @@
 ||biligame.com
 ||biligame.net
 ||biligo.com
+||bilihot.com
 ||bilimoe.com
 ||bilingling.com
 ||bilinstar.com
@@ -11862,6 +11862,7 @@
 ||biqugeapp.com
 ||biqugebook.com
 ||biqugecom.com
+||biqugee.com
 ||biqugeg.com
 ||biqugemm.com
 ||biquger.com
@@ -13437,7 +13438,6 @@
 ||caimai.cc
 ||caimaovip.com
 ||caimei365.com
-||caimigs.com
 ||caimogu.net
 ||caimomo.com
 ||cainachina.com
@@ -17119,6 +17119,7 @@
 ||cntronics.com
 ||cntuw.com
 ||cntv.com
+||cntwg.com
 ||cntxw.com
 ||cnuninet.net
 ||cnutcon.com
@@ -17863,7 +17864,6 @@
 ||cric.com
 ||cric2009.com
 ||cricbigdata.com
-||crifan.com
 ||crifst.com
 ||crimoon.net
 ||crispstata.com
@@ -23576,6 +23576,7 @@
 ||ffyinxiang.com
 ||ffzy8.com
 ||fg.cc
+||fgeekcloud.com
 ||fghi34.com
 ||fgidna.com
 ||fgkj.cc
@@ -23679,6 +23680,7 @@
 ||fiphoenix.com
 ||fir.im
 ||fir.vip
+||firadio.net
 ||fire233.com
 ||fire2333.com
 ||firebirdprint.com
@@ -26344,6 +26346,7 @@
 ||gugu5.com
 ||gugud.com
 ||guguread.com
+||gugutm.com
 ||gugutown.com
 ||guguyu.com
 ||guguzhu.com
@@ -29562,7 +29565,6 @@
 ||huaci.cc
 ||huacnlee.com
 ||huacolor.com
-||huacolor.net
 ||huada120.com
 ||huadan.com
 ||huadehyd.com
@@ -31723,7 +31725,6 @@
 ||imotao.com
 ||imoxiu.com
 ||imp3.net
-||impdo.com
 ||imperfectionstudio.com
 ||imperial-vision.com
 ||impk.cc
@@ -33950,6 +33951,7 @@
 ||jisilu.com
 ||jisu-cnd.com
 ||jisu-edu.com
+||jisuacg.com
 ||jisuan.mobi
 ||jisuanke.com
 ||jisuanqinet.com
@@ -36191,6 +36193,7 @@
 ||kmcits.com
 ||kmcits0655.com
 ||kmcxedu.com
+||kmdgpark.com
 ||kmdn.net
 ||kmeecc.com
 ||kmeitu.com
@@ -36560,7 +36563,6 @@
 ||kuaipao8.com
 ||kuaipeilian.com
 ||kuaipng.com
-||kuaiqiangche.com
 ||kuaiqin.com
 ||kuaiqin.net
 ||kuaiqun.org
@@ -37082,7 +37084,6 @@
 ||lanqi.com
 ||lanqiao.org
 ||lanqibing.com
-||lanqiutv.com
 ||lanqiuzu.com
 ||lanreelh.com
 ||lanren9.com
@@ -39967,6 +39968,7 @@
 ||manhua1.com
 ||manhua123.net
 ||manhua365.com
+||manhua456.com
 ||manhuaba.cc
 ||manhuabei.com
 ||manhuacheng.com
@@ -40571,7 +40573,6 @@
 ||meitun.com
 ||meituncdn.com
 ||meitushop.com
-||meitussp.com
 ||meitustat.com
 ||meituyun.com
 ||meituyunji.com
@@ -40645,6 +40646,7 @@
 ||menglegame.com
 ||menglei.info
 ||mengma.com
+||mengma021.com
 ||mengniang.tv
 ||mengniu99.com
 ||mengqiuju.com
@@ -41528,7 +41530,6 @@
 ||mofang.com
 ||mofang.jp
 ||mofangge.com
-||mofangge.xin
 ||mofanghr.com
 ||mofangshe.com
 ||mofangyu.com
@@ -42565,6 +42566,7 @@
 ||naruto4u.com
 ||narutom.com
 ||nas2x.com
+||nas66.com
 ||nasgetinfo.com
 ||nashangban.com
 ||nashwork.com
@@ -45403,6 +45405,7 @@
 ||pkurc.com
 ||pkusky.com
 ||pkusp.com
+||pkuszh.com
 ||pkvs.com
 ||pkzx.com
 ||plaidc.com
@@ -46701,6 +46704,7 @@
 ||qinglm.com
 ||qinglue.net
 ||qinglvcha.com
+||qingman5.com
 ||qingmang.mobi
 ||qingmayun.com
 ||qingmei.me
@@ -46853,7 +46857,6 @@
 ||qiuweili.com
 ||qiuwen.org
 ||qiuwu.net
-||qiuxiazx.com
 ||qiuxue360.com
 ||qiuyexitong.com
 ||qiuyueban.com
@@ -47020,7 +47023,6 @@
 ||qmtk.com
 ||qmtv.com
 ||qmwtp.com
-||qmyiz.com
 ||qmz5.com
 ||qmzs.com
 ||qn0854.com
@@ -48175,7 +48177,6 @@
 ||rgznworld.com
 ||rh98.com
 ||rhce.cc
-||rhg-ex-b.com
 ||rhhz.net
 ||rhjyw.com
 ||rhkj.com
@@ -50477,7 +50478,6 @@
 ||shoujikanshu.cc
 ||shoujimi.com
 ||shoujitouping.com
-||shoujiw.com
 ||shoujiwan.com
 ||shouker.com
 ||shouliwang.com
@@ -55380,8 +55380,6 @@
 ||ttdong.com
 ||ttdown.com
 ||ttdtweb.com
-||ttdytt.com
-||ttdytt.net
 ||ttechhk.com
 ||ttete.xyz
 ||ttfanwen.com
@@ -56918,6 +56916,7 @@
 ||veryevent.com
 ||verygrass.com
 ||verygslb.com
+||verygslb.net
 ||veryhappy.pw
 ||veryhuo.com
 ||veryide.com
@@ -58002,7 +58001,6 @@
 ||wdjky.com
 ||wdjl.net
 ||wdku.net
-||wdl.so
 ||wdliuxue.com
 ||wdmcake.com
 ||wdmuz.com
@@ -58882,6 +58880,7 @@
 ||whkpcnc.com
 ||whkt.net
 ||whkyjz.com
+||whkykj.com
 ||whland.com
 ||whlawyer.net
 ||whldsoft.com
@@ -60694,7 +60693,6 @@
 ||xduoo.com
 ||xduph.com
 ||xdusz.com
-||xdvps.com
 ||xdwan.com
 ||xdwyx.com
 ||xdxd.love
@@ -63422,7 +63420,6 @@
 ||ycgj.cc
 ||ycgjj.net
 ||ycgslb.com
-||ychdzx.co
 ||ychefu.com
 ||ychmpw.com
 ||ychromedgeie.com
@@ -64220,6 +64217,7 @@
 ||yishuziti.com
 ||yisier.com
 ||yisou.com
+||yisouti.com
 ||yiss.com
 ||yisu.com
 ||yisu6.com
@@ -65387,6 +65385,7 @@
 ||yuexirc.com
 ||yuexunedu.com
 ||yueyaa.com
+||yueyanglou.com
 ||yueyat.net
 ||yueye.org
 ||yueyear.com
@@ -65807,7 +65806,6 @@
 ||yw2005.com
 ||yw40.vip
 ||ywart.com
-||ywb.so
 ||ywbank.com
 ||ywcbs.com
 ||ywcec.com
@@ -66062,6 +66060,7 @@
 ||yzmoney.com
 ||yznano.com
 ||yznn.com
+||yzpsb.com
 ||yzrb.com
 ||yzrcfw.com
 ||yzrom.com
@@ -66135,6 +66134,7 @@
 ||zaixianfanyi.com
 ||zaixianjianli.com
 ||zaixiankan.net
+||zaixiankaoshi.com
 ||zaixs.com
 ||zaixuchang.com
 ||zaiyulin.com
@@ -68923,7 +68923,6 @@
 ||zzobokj.com
 ||zzpd8.com
 ||zzpuke.com
-||zzpzero.com
 ||zzqklm.com
 ||zzqxs.com
 ||zzrbl.com
