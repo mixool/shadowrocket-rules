@@ -1,5 +1,5 @@
 [AutoProxy]
-! Last Modified: 2021-07-24 22:24:47.1627165487 +0000 UTC
+! Last Modified: 2021-07-25 22:24:53.1627251893 +0000 UTC
 ! Expires: 24h
 ! HomePage: https://github.com/mixool/rules
 ! GitHub URL: https://raw.githubusercontent.com/mixool/rules/main/autoswitchproxylist.txt
@@ -11206,6 +11206,7 @@
 ||githubhackathon.com
 ||githubpreview.dev
 ||githubstatus.com
+||githubuniverse.com
 ||githubusercontent.com
 ||gitlab-static.net
 ||gitlab.com
@@ -23380,6 +23381,7 @@
 ||va.v.liveperson.net
 ||vacationbibleschool.com
 ||vaginacontest.com
+||vagrantcloud.com
 ||vagrantup.com
 ||valeursactuelles.com
 ||valid.origin-apple.com.akadns.net
