@@ -1,5 +1,5 @@
 [AutoProxy]
-! Last Modified: 2021-07-30 22:24:54.1627683894 +0000 UTC
+! Last Modified: 2021-07-31 22:24:38.1627770278 +0000 UTC
 ! Expires: 24h
 ! HomePage: https://github.com/mixool/rules
 ! GitHub URL: https://raw.githubusercontent.com/mixool/rules/main/autoswitchproxylist.txt
@@ -9926,6 +9926,7 @@
 ||ff766.net
 ||ffacebook.com
 ||fff36.net
+||fffdm.com
 ||fflick.com
 ||fflnk.net
 ||ffmpeg.org
@@ -10766,6 +10767,7 @@
 ||fyt96.com
 ||fyxm.net
 ||fyy3368.com
+||fzdm.com
 ||fzh999.com
 ||fzh999.net
 ||fzlm.com
@@ -24429,6 +24431,7 @@
 ||wf
 ||wf.smathis.com
 ||wfc01.com
+||wfm.com
 ||wforum.com
 ||wfrick.net
 ||wfwp.org
@@ -24476,6 +24479,7 @@
 ||whoer.net
 ||whogovernstw.org
 ||wholecitiesfoundation.org
+||wholefoods.com
 ||wholefoodsmarket.com
 ||wholekidsfoundation.org
 ||wholeplanetfoundation.org
