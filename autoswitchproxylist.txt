@@ -1,5 +1,5 @@
 [AutoProxy]
-! Last Modified: 2021-08-01 22:24:52.1627856692 +0000 UTC
+! Last Modified: 2021-08-02 22:25:16.1627943116 +0000 UTC
 ! Expires: 24h
 ! HomePage: https://github.com/mixool/rules
 ! GitHub URL: https://raw.githubusercontent.com/mixool/rules/main/autoswitchproxylist.txt
@@ -4045,6 +4045,7 @@
 ||azirevpn.com
 ||azirevpn.net
 ||aznmovies.com
+||aznude.com
 ||azproxies.com
 ||azubu.tv
 ||azure
@@ -11493,6 +11494,7 @@
 ||googlemail.com
 ||googlemaps.com
 ||googlemashups.com
+||googleoptimize.com
 ||googlepagecreator.com
 ||googlephotos.com
 ||googleplay.com
@@ -16898,6 +16900,7 @@
 ||name.com
 ||namemybeats.com
 ||namepros.com
+||namethatporn.com
 ||namethatpornstar.com
 ||namgyal.org
 ||namgyalmonastery.org
@@ -25583,7 +25586,6 @@
 ||www.ayx121.com
 ||www.azattyk.org
 ||www.azattyq.org
-||www.aznude.com
 ||www.b1000.com
 ||www.b13.cc
 ||www.b16.bet
