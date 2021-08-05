@@ -1,5 +1,5 @@
 [AutoProxy]
-! Last Modified: 2021-08-04 22:24:24.1628115864 +0000 UTC
+! Last Modified: 2021-08-05 22:25:01.1628202301 +0000 UTC
 ! Expires: 24h
 ! HomePage: https://github.com/mixool/rules
 ! GitHub URL: https://raw.githubusercontent.com/mixool/rules/main/autoswitchcnlist.txt
@@ -3580,6 +3580,8 @@
 ||3lian.com
 ||3lii.com
 ||3lsoft.com
+||3m.com
+||3m.com.sg
 ||3mbang.com
 ||3mh0yvx.com
 ||3miao.net
@@ -3616,6 +3618,7 @@
 ||3uww.cc
 ||3v.do
 ||3vjia.com
+||3vjuyuan.com
 ||3vkj.net
 ||3vlm.net
 ||3vsheji.com
@@ -4218,6 +4221,7 @@
 ||51ele.net
 ||51emo.com
 ||51en.com
+||51epei.com
 ||51eshop.com
 ||51etong.com
 ||51eway.com
@@ -4414,6 +4418,7 @@
 ||51pgzs.com
 ||51php.com
 ||51piaozi.com
+||51pibu.com
 ||51pigai.com
 ||51ping.com
 ||51pintan.com
@@ -8897,7 +8902,6 @@
 ||akinoheya.com
 ||akjunshi.com
 ||akkogear.com
-||aklmbh.com
 ||akniu.com
 ||aknzb.com
 ||akomr.com
@@ -13054,6 +13058,7 @@
 ||bxkejian.com
 ||bxkxw.com
 ||bxlac.com
+||bxnjmj.com
 ||bxpedia.com
 ||bxr.im
 ||bxrfund.com
@@ -13926,6 +13931,7 @@
 ||cctvse.net
 ||cctvweishi.com
 ||cctvxf.com
+||cctvyscj.com
 ||cctw.cc
 ||cctzz.net
 ||ccutchi.com
@@ -14276,6 +14282,7 @@
 ||ceotx.com
 ||ceowan.com
 ||ceowww.com
+||ceoxq.com
 ||cepin.com
 ||ceping.com
 ||cepmh.com
@@ -23432,6 +23439,7 @@
 ||fengyu.cc
 ||fengyu.moe
 ||fengyuncx.com
+||fengyunhao.work
 ||fengyunpdf.com
 ||fengyushan.com
 ||fengyx.com
@@ -27153,6 +27161,7 @@
 ||hanguu.com
 ||hangxinyiqi.xin
 ||hangye114.net
+||hangye365.com
 ||hangyjx.com
 ||hangzhiqiao.com
 ||hangzhoufcw.com
@@ -27301,6 +27310,7 @@
 ||haoduorou.net
 ||haoep.com
 ||haoest.com
+||haofajz.com
 ||haofanben.com
 ||haofangkankan.com
 ||haofangyu.com
@@ -27358,6 +27368,7 @@
 ||haolexiang.com
 ||haolezen.com
 ||haolietou.com
+||haoliners.net
 ||haolints.com
 ||haoliv.com
 ||haolizi.net
@@ -27557,7 +27568,6 @@
 ||hatoem.com
 ||haval-global.com
 ||havefun.im
-||hawu.me
 ||hax18.com
 ||haxiu.com
 ||haxiu.org
@@ -27660,6 +27670,7 @@
 ||hbjhc.com
 ||hbjhpx.com
 ||hbjhyh.com
+||hbjianzhuwang.com
 ||hbjimin.com
 ||hbjinnong.com
 ||hbjjrb.com
@@ -27945,7 +27956,6 @@
 ||hebeijd.com
 ||hebeinongzi.com
 ||hebeisy.com
-||hebeitenglong.com
 ||hebeizhitui.com
 ||hebeizhouji.com
 ||hebgtjt.com
@@ -28662,7 +28672,6 @@
 ||hkstv.tv
 ||hkt4.com
 ||hktheone.com
-||hktv8.com
 ||hktzschool.com
 ||hkwb.net
 ||hkxbjt.com
@@ -32972,6 +32981,7 @@
 ||jdjys.com
 ||jdkcb.com
 ||jdkindle.com
+||jdluosi.com
 ||jdlxzx.com
 ||jdnettv.com
 ||jdnews.net
@@ -33063,7 +33073,6 @@
 ||jewelryseeds.com
 ||jexus.org
 ||jeyi.com
-||jf258.com
 ||jf2688.com
 ||jf88811.com
 ||jf9p.com
@@ -33963,6 +33972,7 @@
 ||jiusongjiankang.com
 ||jiusp.cc
 ||jiutu.net
+||jiututa.com
 ||jiuwa.net
 ||jiuwan.com
 ||jiuwei.net
@@ -36865,7 +36875,6 @@
 ||laituia.com
 ||laituijian.net
 ||laiwang.com
-||laiwantv.com
 ||laiwo.com
 ||laiwu.net
 ||laiwumedia.com
@@ -36959,6 +36968,7 @@
 ||langlvseo.com
 ||langmanzg.com
 ||langmanzw.com
+||langmeijy.net
 ||langongju.com
 ||langren.net
 ||langren001.com
@@ -37252,6 +37262,7 @@
 ||lcofjp.com
 ||lcol.net
 ||lcouncil.com
+||lcpxxx.net
 ||lcrcbank.com
 ||lcread.com
 ||lcsrmyy.com
@@ -37537,7 +37548,6 @@
 ||lerye.com
 ||leshanvc.com
 ||leshi123.cc
-||leshi123.com
 ||leshou.com
 ||leshow.com
 ||leshu.com
@@ -38298,6 +38308,7 @@
 ||liucaijiu.com
 ||liuchengtu.com
 ||liuchengtu.net
+||liuchengxu.org
 ||liuchuo.net
 ||liudanking.com
 ||liudatxt.com
@@ -44393,7 +44404,6 @@
 ||paihang360.com
 ||paihb.com
 ||paihotels.cc
-||paike.com
 ||paiky.net
 ||pailitao.com
 ||pailixiang.com
@@ -48329,7 +48339,6 @@
 ||rpjrb.com
 ||rpo5156.com
 ||rpsh.net
-||rpwtcn.com
 ||rqi17.com
 ||rqjrb.com
 ||rqshbp.net
@@ -50577,6 +50586,7 @@
 ||shuijingwanwq.com
 ||shuijingwuyu.com
 ||shuiku.net
+||shuiku8.com
 ||shuiliaosheji.com
 ||shuimiao.net
 ||shuimoyuan.com
@@ -50671,6 +50681,7 @@
 ||shushao.com
 ||shushi100.com
 ||shushihome.com
+||shushubuyue.com
 ||shushubuyue.net
 ||shusw.com
 ||shutcm.com
@@ -52188,6 +52199,7 @@
 ||stnn.cc
 ||stnts.com
 ||sto80.com
+||stock8m.com
 ||stockhn.com
 ||stockstar.com
 ||stockwei.com
@@ -55509,6 +55521,7 @@
 ||tuoniaox.com
 ||tuotuozu.com
 ||tuoweisi.com
+||tuoxiaoshebei.com
 ||tuoyundan.com
 ||tuozhan028.com
 ||tuozhe8.com
@@ -56921,6 +56934,7 @@
 ||vipfengfei.com
 ||vipfengxiao.com
 ||vipfinal.com
+||vipgs.net
 ||vipgslb.com
 ||viphxw.com
 ||vipjr.com
@@ -59443,6 +59457,7 @@
 ||wonmay.net
 ||wonnder.com
 ||wonote.com
+||wonpearl.com
 ||wonplug.net
 ||wonter.net
 ||wonxun.net
@@ -64495,6 +64510,7 @@
 ||yongsy.com
 ||yongtu.net
 ||yongxinby.com
+||yongxinggw.com
 ||yongxintex.com
 ||yongzhentang.com
 ||yonho.com
@@ -67173,6 +67189,7 @@
 ||zhongkao.com
 ||zhongkaohelp.com
 ||zhongkerd.com
+||zhongkezhuyan.com
 ||zhongkongbancn.com
 ||zhongleny.com
 ||zhonglewz.com
@@ -68333,6 +68350,7 @@
 ||zuan-cheng.com
 ||zuanbi8.com
 ||zuanchuang.org
+||zuanchuang9.com
 ||zuanke8.com
 ||zuankezu.com
 ||zuanshi.com

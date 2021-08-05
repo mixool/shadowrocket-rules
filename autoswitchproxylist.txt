@@ -1,5 +1,5 @@
 [AutoProxy]
-! Last Modified: 2021-08-04 22:24:24.1628115864 +0000 UTC
+! Last Modified: 2021-08-05 22:25:01.1628202301 +0000 UTC
 ! Expires: 24h
 ! HomePage: https://github.com/mixool/rules
 ! GitHub URL: https://raw.githubusercontent.com/mixool/rules/main/autoswitchproxylist.txt
@@ -2116,6 +2116,7 @@
 ||895600.cc
 ||8958164.com
 ||8964.com
+||8964museum.com
 ||8969.org
 ||8977.cc
 ||8977.com
