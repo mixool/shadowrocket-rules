@@ -1,5 +1,5 @@
 [AutoProxy]
-! Last Modified: 2021-08-06 22:24:56.1628288696 +0000 UTC
+! Last Modified: 2021-08-07 22:24:30.1628375070 +0000 UTC
 ! Expires: 24h
 ! HomePage: https://github.com/mixool/rules
 ! GitHub URL: https://raw.githubusercontent.com/mixool/rules/main/autoswitchcnlist.txt
@@ -1365,7 +1365,6 @@
 ||139130.com
 ||139135.com
 ||1392189.com
-||1392233.com
 ||13937180868.com
 ||13973.com
 ||1398.org
@@ -3739,7 +3738,6 @@
 ||425yx.com
 ||42651.com
 ||426g.com
-||42844.com
 ||429006.com
 ||42hq.com
 ||42trip.com
@@ -5274,6 +5272,7 @@
 ||58dm.com
 ||58fangdai.com
 ||58fenlei.com
+||58food.com
 ||58game.com
 ||58ganji.com
 ||58gocm.net
@@ -6169,6 +6168,7 @@
 ||756u.com
 ||7574.com
 ||75757.com
+||757dy.com
 ||7580.ltd
 ||75n474.com
 ||75team.com
@@ -7037,7 +7037,6 @@
 ||911wow.com
 ||911yao.com
 ||912366.com
-||912414.com
 ||912688.com
 ||912k.com
 ||912yx.com
@@ -7921,6 +7920,7 @@
 ||a6a1.com
 ||a7.com
 ||a8.com
+||a8cd.com
 ||a8f947.com
 ||a8tg.com
 ||a8v5.com
@@ -8728,7 +8728,6 @@
 ||airtofly.com
 ||airtu.com
 ||airwh.com
-||ais56.com
 ||aisaohuo.com
 ||aisaw.com
 ||aisbeijing.com
@@ -10346,6 +10345,7 @@
 ||b0w.me
 ||b178.com
 ||b1bj.com
+||b1qg.com
 ||b1uew01f.net
 ||b23.tv
 ||b2b-builder.com
@@ -13057,12 +13057,12 @@
 ||bxrfund.com
 ||bxsnews.com
 ||bxsychina.com
-||bxwcn.net
 ||bxwst.com
 ||bxwx.la
 ||bxwx.org
 ||bxwx.tv
 ||bxwx.us
+||bxwx123.com
 ||bxwx520.com
 ||bxwx99.com
 ||bxwxtxt.com
@@ -13594,7 +13594,6 @@
 ||carpela.me
 ||carrobot.com
 ||carry6.com
-||cartoonb2b.com
 ||cartooncn.org
 ||cartoonwin.com
 ||carutoo.com
@@ -13838,7 +13837,6 @@
 ||ccpit-ah.com
 ||ccpit-ep.org
 ||ccpit-henan.org
-||ccpit-ipc.org
 ||ccpit-shaanxi.org
 ||ccpit-sichuan.org
 ||ccpit-sx.org
@@ -14219,6 +14217,7 @@
 ||cef114.com
 ||cefc.co
 ||cehbh.com
+||cehbk.com
 ||cehca.com
 ||cehome.com
 ||cehuashen.com
@@ -16759,7 +16758,6 @@
 ||cngrok.com
 ||cngui.com
 ||cngulu.com
-||cnh168.com
 ||cnh5.net
 ||cnhacker.com
 ||cnhackhy.com
@@ -17045,7 +17043,6 @@
 ||cnsun.net
 ||cnsuning.com
 ||cnsunp.com
-||cnsupu.com
 ||cnsuv.com
 ||cnsyhz.com
 ||cnsynews.com
@@ -17498,7 +17495,6 @@
 ||corpease.net
 ||corpize.com
 ||corpus4u.org
-||cortexfx.bnpparibas.com
 ||cos-show.com
 ||cosco.com
 ||coscon.com
@@ -17930,6 +17926,7 @@
 ||csjwang.com
 ||csjyzq.com
 ||cskin.net
+||cskule.com
 ||cskxjk.com
 ||cslfans.com
 ||cslou.com
@@ -18878,7 +18875,6 @@
 ||daqsoft.com
 ||daquan.com
 ||darczpw.com
-||darkhat.xyz
 ||darkmi.com
 ||darmao.com
 ||darongcheng.com
@@ -25664,7 +25660,6 @@
 ||golang123.com
 ||golangapi.com
 ||golanger.com
-||golangfoundation.org
 ||golangtc.com
 ||golangweb.com
 ||golaravel.com
@@ -27486,7 +27481,6 @@
 ||haoyuncn.net
 ||haoyunma.com
 ||haoyunmom.com
-||haoyunyu.com
 ||haoyy168.com
 ||haozhai.com
 ||haozhanhui.com
@@ -28916,7 +28910,6 @@
 ||hnztfs.com
 ||hnzxyy.com
 ||hnzyzx.com
-||hnzzgjly.com
 ||hoau.net
 ||hobalab.com
 ||hobbiestree.com
@@ -31037,6 +31030,7 @@
 ||idtcdn.com
 ||idtechwh.com
 ||idting.com
+||idu9.com
 ||idudo.com
 ||iduo8.com
 ||iduobao.net
@@ -31150,6 +31144,7 @@
 ||ifiretech.com
 ||ifitbox.com
 ||ifjing.com
+||iflyhealth.com
 ||iflying.com
 ||iflyink.com
 ||iflyos.vip
@@ -31983,7 +31978,6 @@
 ||ipcfun.com
 ||ipchaxun.com
 ||ipchina.com
-||ipclife.net
 ||ipcmen.com
 ||ipcool.info
 ||ipcorecatalog.com
@@ -32159,7 +32153,6 @@
 ||isheet.net
 ||isheji5.com
 ||ishenbao.com
-||ishengyiren.com
 ||ishenping.com
 ||ishenyou.com
 ||ishhuo.com
@@ -32794,7 +32787,6 @@
 ||javaeye.com
 ||javafxchina.net
 ||javanav.com
-||javascriptcn.com
 ||javashuo.com
 ||javatang.com
 ||javaweb.shop
@@ -34155,7 +34147,6 @@
 ||jkys5.com
 ||jkzhilu.com
 ||jkzl.com
-||jl-zh.com
 ||jl0435.com
 ||jl54.org
 ||jl852.com
@@ -36296,7 +36287,6 @@
 ||kqcfcw.com
 ||kqgeo.com
 ||kqidong.com
-||kqiqi.com
 ||kqiwen.com
 ||kqiwen.net
 ||kqj123.com
@@ -39914,7 +39904,6 @@
 ||manrong.win
 ||manshen.net
 ||mansuno.com
-||mantianxingmall.com
 ||mantouji.net
 ||mantusy.com
 ||mantutu.com
@@ -41099,7 +41088,6 @@
 ||missku.com
 ||missquq.com
 ||misstar.com
-||missyou.run
 ||missyuan.net
 ||misuland.com
 ||mitang.com
@@ -42843,7 +42831,6 @@
 ||nfcmag.com
 ||nffair.com
 ||nffund.com
-||nfhcys.com
 ||nfjt.net
 ||nflchina.com
 ||nfmedia.com
@@ -43576,6 +43563,7 @@
 ||o37o.net
 ||o3ndix.com
 ||o7h.net
+||o8ak.com
 ||o8dlu8.com
 ||oa025.com
 ||oa0351.com
@@ -43983,7 +43971,6 @@
 ||openanolis.org
 ||openasic.org
 ||openbayes.com
-||openbiox.org
 ||opencas.org
 ||opencourt.vip
 ||opendrivers.com
@@ -44965,6 +44952,7 @@
 ||phperxuqin.com
 ||phperz.com
 ||phpfans.net
+||phpfdc.com
 ||phpfensi.com
 ||phpfs.com
 ||phpgen.com
@@ -45251,6 +45239,7 @@
 ||pjnoi.com
 ||pjob.net
 ||pjrcn.com
+||pjsyzx.com
 ||pjtime.com
 ||pjtx.net
 ||pjylw.net
@@ -52000,7 +51989,6 @@
 ||ssbbww.com
 ||ssbgzzs.com
 ||ssby.cc
-||ssc.com
 ||sscity.org
 ||sscmwl.com
 ||ssdata.com
@@ -53854,6 +53842,7 @@
 ||tendawifi.com
 ||tendcode.com
 ||tenddata.com
+||tenfafa.com
 ||tenganxinxi.com
 ||tengattack.com
 ||tengbai-it.com
@@ -54184,6 +54173,7 @@
 ||tiannv.com
 ||tianpeng.com
 ||tianpinjie.com
+||tianpujun.com
 ||tianqi.cc
 ||tianqi.com
 ||tianqi123.com
@@ -55478,7 +55468,6 @@
 ||tumanyi.com
 ||tumeinv.com
 ||tumukeji.com
-||tumunity.com
 ||tumuzhe.com
 ||tuna.wiki
 ||tungshungroup.com
@@ -56891,7 +56880,6 @@
 ||vinllen.com
 ||vinnywang.com
 ||vinoyang.com
-||vintagebroadcasts.com
 ||vinuxhome.com
 ||violetgo.com
 ||violinerhu.com
@@ -56922,6 +56910,7 @@
 ||vipgs.net
 ||vipgslb.com
 ||viphxw.com
+||vipjingdong.com
 ||vipjr.com
 ||vipkaoyan.net
 ||vipkdy.com
@@ -57677,6 +57666,7 @@
 ||wanshouyou.net
 ||wansongpu.com
 ||wantattoo.com
+||wantegame.com
 ||wantexe.com
 ||wantgame.net
 ||wantiku.com
@@ -60252,7 +60242,6 @@
 ||x158.tv
 ||x1997.net
 ||x22225.com
-||x2279.com
 ||x23qb.com
 ||x23us.cc
 ||x23us.me
@@ -60878,7 +60867,6 @@
 ||xiaoacha.com
 ||xiaobai.com
 ||xiaobaibk.com
-||xiaobaidj.com
 ||xiaobaipan.com
 ||xiaobaishiji.com
 ||xiaobaishixi.com
@@ -62091,6 +62079,7 @@
 ||xmyijing.com
 ||xmyipin.com
 ||xmylhy.com
+||xmysgame.com
 ||xmysinter.com
 ||xmzdls.com
 ||xmzylh.com
@@ -63110,7 +63099,6 @@
 ||yannv.com
 ||yanoda.com
 ||yanpk.com
-||yanpuzi.com
 ||yanqiao.com
 ||yanqing-888.net
 ||yanqingzhan.net
@@ -66574,7 +66562,6 @@
 ||zhangxinhuichuan.com
 ||zhangxinhulian.com
 ||zhangxinxu.com
-||zhangyangjun.com
 ||zhangyin.org
 ||zhangyongjun.com
 ||zhangyoubao.com
@@ -67620,6 +67607,7 @@
 ||zimuzu.tv
 ||zine.la
 ||zinewow.com
+||zing-api.com
 ||zingke.com
 ||zingqi.com
 ||ziniao.com
