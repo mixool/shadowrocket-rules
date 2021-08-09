@@ -1,5 +1,5 @@
 [AutoProxy]
-! Last Modified: 2021-08-08 22:24:17.1628461457 +0000 UTC
+! Last Modified: 2021-08-09 22:25:00.1628547900 +0000 UTC
 ! Expires: 24h
 ! HomePage: https://github.com/mixool/rules
 ! GitHub URL: https://raw.githubusercontent.com/mixool/rules/main/autoswitchproxylist.txt
@@ -22346,6 +22346,7 @@
 ||tinyrealm.com
 ||tinytu.be
 ||tinyurl.com
+||tipas.net
 ||tiresplus.com
 ||tistory.com
 ||titanfall.com
