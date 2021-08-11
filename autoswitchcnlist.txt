@@ -1,5 +1,5 @@
 [AutoProxy]
-! Last Modified: 2021-08-10 23:34:25.1628638465 +0000 UTC
+! Last Modified: 2021-08-11 22:25:13.1628720713 +0000 UTC
 ! Expires: 24h
 ! HomePage: https://github.com/mixool/rules
 ! GitHub URL: https://raw.githubusercontent.com/mixool/rules/main/autoswitchcnlist.txt
@@ -2715,7 +2715,6 @@
 ||2q1q.com
 ||2qbb.com
 ||2r3r.com
-||2r9qgy.com
 ||2rich.net
 ||2seachbusiness.com
 ||2shihui.net
@@ -3438,7 +3437,6 @@
 ||39ej7e.com
 ||39fengliao.com
 ||39h83s.com
-||39haohuo.com
 ||39health.com
 ||39hp.com
 ||39jks.com
@@ -4894,7 +4892,6 @@
 ||52rd.com
 ||52rd.net
 ||52rental.com
-||52saf.com
 ||52samsung.com
 ||52sddz.com
 ||52shangou.com
@@ -23437,7 +23434,6 @@
 ||fensebook.com
 ||fenshua123.com
 ||fensishenghuo.com
-||fensui168.com
 ||fenxi.cc
 ||fenxi.com
 ||fenxi.org
@@ -24149,7 +24145,6 @@
 ||fslgz.com
 ||fsllq.com
 ||fslsg.com
-||fslwpq.com
 ||fsmama.com
 ||fsmeeting.com
 ||fsmy88888.com
@@ -37442,7 +37437,6 @@
 ||lemonyule.com
 ||lemote.com
 ||lempstack.com
-||lemuzhi.com
 ||len-aquatics.org
 ||lenget.com
 ||lenggirl.com
@@ -49178,7 +49172,6 @@
 ||sdyypt.net
 ||sdzbcg.com
 ||sdzdmjg.com
-||sdzdsljbj.com
 ||sdzhidian.com
 ||sdzjsy.com
 ||sdzk.co
@@ -50928,7 +50921,6 @@
 ||sinovatio.com
 ||sinovationventures.com
 ||sinovdc.com
-||sinovio.org
 ||sinovo-tech.com
 ||sinovoice.com
 ||sinowealth.com
@@ -51565,7 +51557,6 @@
 ||somode.com
 ||somsds.com
 ||sonald.me
-||sonceo.com
 ||songanjun.com
 ||songchuan12345.com
 ||songcn.com
@@ -57734,7 +57725,6 @@
 ||wb0311.com
 ||wb133.com
 ||wb321.com
-||wb3399.vip
 ||wb699.com
 ||wbangdan.com
 ||wbdacdn.com
