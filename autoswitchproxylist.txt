@@ -1,5 +1,5 @@
 [AutoProxy]
-! Last Modified: 2021-08-11 22:25:13.1628720713 +0000 UTC
+! Last Modified: 2021-08-12 22:22:50.1628806970 +0000 UTC
 ! Expires: 24h
 ! HomePage: https://github.com/mixool/rules
 ! GitHub URL: https://raw.githubusercontent.com/mixool/rules/main/autoswitchproxylist.txt
@@ -7701,6 +7701,7 @@
 ||dancemeets.com
 ||dancingbear.com
 ||dandalinvoa.com
+||dandanzan.cc
 ||danemarket.com
 ||danielgranda.com
 ||daniellaw.me
@@ -16587,6 +16588,7 @@
 ||mucinex.tv
 ||mucinexprofessional.com
 ||mudfish.net
+||mudvod.tv
 ||muftah.org
 ||muji.com
 ||muji.net
@@ -17572,6 +17574,7 @@
 ||nugettest.org
 ||nukistream.com
 ||numbr.com
+||nunuyy.cc
 ||nuovelle.ee
 ||nuovomegavideo.com
 ||nurgo-software.com
@@ -23877,6 +23880,7 @@
 ||vocn.tv
 ||vocus.cc
 ||vod.com
+||vod360.net
 ||voicettank.org
 ||voipfone.net
 ||vokevr.com
