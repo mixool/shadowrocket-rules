@@ -1,5 +1,5 @@
 [AutoProxy]
-! Last Modified: 2021-08-13 22:25:22.1628893522 +0000 UTC
+! Last Modified: 2021-08-14 22:24:46.1628979886 +0000 UTC
 ! Expires: 24h
 ! HomePage: https://github.com/mixool/rules
 ! GitHub URL: https://raw.githubusercontent.com/mixool/rules/main/autoswitchproxylist.txt
@@ -6400,10 +6400,13 @@
 ||cdig.info
 ||cdjp.org
 ||cdkworkshop.com
+||cdn-ali.content.steamchina.com
 ||cdn-apple.com
 ||cdn-images.mailchimp.com
 ||cdn-main.plus500.com
+||cdn-qc.content.steamchina.com
 ||cdn-terapeak.com
+||cdn-ws.content.steamchina.com
 ||cdn.angruo.com
 ||cdn.assets.lfpcontent.com
 ||cdn.cms-twdigitalassets.com
