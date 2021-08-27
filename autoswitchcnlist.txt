@@ -1,5 +1,5 @@
 [AutoProxy]
-! Last Modified: 2021-08-26 22:25:37.1630016737 +0000 UTC
+! Last Modified: 2021-08-27 22:25:09.1630103109 +0000 UTC
 ! Expires: 24h
 ! HomePage: https://github.com/mixool/rules
 ! GitHub URL: https://raw.githubusercontent.com/mixool/rules/main/autoswitchcnlist.txt
@@ -7903,7 +7903,6 @@
 ||aaliyaheartha.com
 ||aamachina.org
 ||aaniao.com
-||aapig.com
 ||aaqqw.com
 ||aarch64.me
 ||aardio.com
@@ -10562,7 +10561,6 @@
 ||baishancloud.org
 ||baishangeek.com
 ||baishicha.com
-||baishigo.com
 ||baishishuju.com
 ||baishixi.xyz
 ||baishudata.com
@@ -21094,6 +21092,7 @@
 ||dyynong.net
 ||dyys.com
 ||dyysoft.net
+||dyzdx.com
 ||dyzxw.org
 ||dz-z.com
 ||dz.tt
@@ -27919,6 +27918,7 @@
 ||heiguang.net
 ||heiguisf.com
 ||heijiao.net
+||heijiazi.com
 ||heijin.org
 ||heilanhome.com
 ||heilaot.com
@@ -34409,6 +34409,7 @@
 ||js-screen.com
 ||js-weilong.com
 ||js-yr.com
+||js.design
 ||js04999.com
 ||js0573.com
 ||js11183.com
@@ -34492,7 +34493,6 @@
 ||jsjlzxw.com
 ||jsjs.cc
 ||jsjs.org
-||jsjyhzy.cc
 ||jsjyrcb.com
 ||jsjznews.com
 ||jskaiborui.com
@@ -37318,6 +37318,7 @@
 ||lejianweike.com
 ||lejiaolexue.com
 ||lejj.com
+||lejlc.com
 ||leju.com
 ||lejucaifu.com
 ||lejuliang.com
@@ -42180,6 +42181,7 @@
 ||n0808.com
 ||n12345.com
 ||n127.com
+||n12xar123.xyz
 ||n21.cc
 ||n2v.net
 ||n3sd.com
@@ -43287,7 +43289,6 @@
 ||nuojiugo.com
 ||nuokui.com
 ||nuomi.com
-||nuomi9.com
 ||nuomicikoi.com
 ||nuomiphp.com
 ||nuonuo.com
@@ -48143,7 +48144,6 @@
 ||rpgmoba.com
 ||rpjrb.com
 ||rpo5156.com
-||rpsh.net
 ||rqi17.com
 ||rqjrb.com
 ||rqshbp.net
@@ -50152,7 +50152,6 @@
 ||shoudurc.com
 ||shoufm.com
 ||shougongke.com
-||shouhome.com
 ||shouhoubang.com
 ||shouji.com
 ||shouji10086.com
@@ -52401,6 +52400,7 @@
 ||suzhenyi.com
 ||suzhou.cc
 ||suzhoubank.com
+||suzhouds.com
 ||suzhoujinghui.com
 ||suzhoulida.com
 ||suzhoushilla.com
@@ -55022,6 +55022,7 @@
 ||tt-bike.com
 ||tt-ly.com
 ||tt116114.com
+||tt120.org
 ||tt1386.com
 ||tt1h.com
 ||tt286.com
@@ -68038,6 +68039,7 @@
 ||zswcn.com
 ||zsweai.club
 ||zswebao.xyz
+||zswhtl.com
 ||zsxq.com
 ||zsxq100.com
 ||zsyjgmr.com
