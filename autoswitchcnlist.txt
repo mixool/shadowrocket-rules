@@ -1,5 +1,5 @@
 [AutoProxy]
-! Last Modified: 2021-09-19 22:24:41.1632090281 +0000 UTC
+! Last Modified: 2021-09-20 22:25:00.1632176700 +0000 UTC
 ! Expires: 24h
 ! HomePage: https://github.com/mixool/rules
 ! GitHub URL: https://raw.githubusercontent.com/mixool/rules/main/autoswitchcnlist.txt
@@ -14136,7 +14136,6 @@
 ||ceoeo.com
 ||ceoim.com
 ||ceomoo.com
-||ceons4.com
 ||ceook.com
 ||ceoplaza.com
 ||ceotx.com
@@ -23274,7 +23273,6 @@
 ||fenxi.org
 ||fenxiangdashi.com
 ||fenxianglife.com
-||fenxiaoba.net
 ||fenxiyi.com
 ||fenxuekeji.com
 ||fenying.net
@@ -24186,7 +24184,6 @@
 ||fw-biotech.com
 ||fw4.co
 ||fw4.me
-||fwcdn.com
 ||fwdq.com
 ||fwdq.net
 ||fwdqw.com
@@ -26672,7 +26669,6 @@
 ||habadog.com
 ||habbygames.com
 ||hac-ker.net
-||hacdn.net
 ||hack0nair.me
 ||hack50.com
 ||hack520.com
@@ -26698,7 +26694,6 @@
 ||hacpai.com
 ||haczjob.com
 ||hadax.com
-||hadns.net
 ||hadobi.com
 ||hadsky.com
 ||hadyang.com
@@ -40137,7 +40132,6 @@
 ||meirishentie.com
 ||meiritv.net
 ||meiriyiwen.com
-||meiriyouxue.com
 ||meirong.net
 ||meirongshanghai.com
 ||meisaitu.com
@@ -59731,6 +59725,7 @@
 ||wykefu.com
 ||wykw.com
 ||wykz.com
+||wylws.com
 ||wymp4.net
 ||wymp46.com
 ||wyn88.com
@@ -64171,10 +64166,8 @@
 ||youjiaus.net
 ||youjiaxiao.com
 ||youjiuhealth.com
-||youjk.com
 ||youjoy.tv
 ||youjuke.com
-||youka.la
 ||youkake.com
 ||youke.co
 ||youke.com
@@ -67792,6 +67785,7 @@
 ||zsf.cool
 ||zsfstudio.xyz
 ||zsfund.com
+||zsfy.org
 ||zsgd.com
 ||zsglrj.com
 ||zsgoodlighting.com
