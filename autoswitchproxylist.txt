@@ -1,5 +1,5 @@
 [AutoProxy]
-! Last Modified: 2021-09-21 22:25:06.1632263106 +0000 UTC
+! Last Modified: 2021-09-22 22:25:10.1632349510 +0000 UTC
 ! Expires: 24h
 ! HomePage: https://github.com/mixool/rules
 ! GitHub URL: https://raw.githubusercontent.com/mixool/rules/main/autoswitchproxylist.txt
@@ -10036,6 +10036,7 @@
 ||fireemblemawakening.com
 ||firefox.com
 ||firefoxfan.com
+||firefoxusercontent.com
 ||fireofliberty.org
 ||fireside.fm
 ||firesidegatherings.com
@@ -16466,6 +16467,7 @@
 ||moyuv5.com
 ||mozaic
 ||mozhua.net
+||mozilla.com
 ||mozilla.community
 ||mozilla.net
 ||mozilla.org
