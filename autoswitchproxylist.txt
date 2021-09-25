@@ -1,5 +1,5 @@
 [AutoProxy]
-! Last Modified: 2021-09-24 22:24:54.1632522294 +0000 UTC
+! Last Modified: 2021-09-25 22:24:32.1632608672 +0000 UTC
 ! Expires: 24h
 ! HomePage: https://github.com/mixool/rules
 ! GitHub URL: https://raw.githubusercontent.com/mixool/rules/main/autoswitchproxylist.txt
@@ -1228,6 +1228,7 @@
 ||4ebaytraders.com
 ||4everproxy.com
 ||4freeproxy.com
+||4gtv.tv
 ||4irc.com
 ||4jok.com
 ||4musclemen.com
@@ -1375,7 +1376,6 @@
 ||54647.global
 ||54647.io
 ||54647.online
-||54647.org
 ||54647.xyz
 ||546990.com
 ||5482562.com
@@ -3426,6 +3426,7 @@
 ||api1.sg8888.ws
 ||api17tp.apitilt.com
 ||apiary.io
+||apibay.org
 ||apic.pinnacle.com
 ||apidocs.linksalpha.com
 ||apigame.yunbo11.com
@@ -4730,6 +4731,7 @@
 ||bemywife.cc
 ||benchprep.org
 ||benjibot.xyz
+||benliton.com
 ||bennyp.net
 ||bentley
 ||bentobox.tv
@@ -6889,6 +6891,8 @@
 ||ck.spacetechnology.net
 ||ck10019.cc
 ||ck101.com
+||ckcdn.com
+||ckck.fun
 ||ckw77.com
 ||cl
 ||cl.d0z.net
@@ -14715,6 +14719,7 @@
 ||leavinghpinc.com
 ||leclerc
 ||lecloud.net
+||lecoin.cc
 ||lede-project.org
 ||ledongzhibo111.com
 ||ledongzhibo1111.com
@@ -15149,6 +15154,7 @@
 ||lovemov.cc
 ||lovemyanime.net
 ||loveofkuanyin.com
+||loveparents.org
 ||lovesexdurex.com
 ||lovethiscity.com
 ||lovetibet.ti-da.net
@@ -17625,6 +17631,7 @@
 ||ny.stgloballink.com
 ||ny1.com
 ||nyaa.com
+||nyaa.net
 ||nyahentai.com
 ||nyam1380.com
 ||nyam1480.com
@@ -18672,6 +18679,7 @@
 ||piratebayproxy.co
 ||piratebrowser.com
 ||piratelist.org
+||pirates-forum.org
 ||piriform.com
 ||piring.com
 ||pise.pw
@@ -19200,6 +19208,8 @@
 ||ptbtm.com
 ||ptt.cc
 ||ptt.com
+||ptt2.cc
+||ptt3.cc
 ||pttgame.com
 ||pttgopolitics.com
 ||pttvan.org
@@ -22519,6 +22529,7 @@
 ||torrentroom.com
 ||torrenty.org
 ||torrentz2.is
+||torrindex.net
 ||torss.cf
 ||torvpn.com
 ||tosh.comedycentral.com
@@ -24245,6 +24256,8 @@
 ||wannaflix.com
 ||wanokokorosoh.com
 ||want-daily.com
+||want-media.com
+||wantblogger.com
 ||wanyepu.com
 ||wanz-factory.com
 ||wap.xinbao6.net
@@ -25227,7 +25240,6 @@
 ||www.482t.com
 ||www.494hu.com
 ||www.4bc.cc
-||www.4gtv.tv
 ||www.4hu.com
 ||www.4hu54.com
 ||www.4hu55.com
@@ -29723,6 +29735,7 @@
 ||zuola.com
 ||zvereff.com
 ||zw
+||zwtvusa.com
 ||zx-fly.com
 ||zyd.jygweb.org
 ||zynaima.com
